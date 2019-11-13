@@ -1,2 +1,2 @@
-# spring-boot-primefaces-example
-Spring Boot primefaces example
+# spring-boot-example
+Spring Boot example
