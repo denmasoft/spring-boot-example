@@ -19,7 +19,7 @@ public class StudentController {
     @Autowired
     private StudentDao studentDao;
 
-    @GetMapping("/")
+    @GetMapping("")
     public ResponseEntity<Object> getAll ()
     {
         List<Student> students = studentDao.getAll ();
